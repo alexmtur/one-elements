@@ -1,0 +1,15 @@
+{
+  "name": "one-elements",
+  "homepage": "https://github.com/alexmtur/one-elements",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "c2d98e190c20dc5c2f3b8af3012b93e99e2b29b6"
+  },
+  "_source": "https://github.com/alexmtur/one-elements.git",
+  "_target": "^0.0.1",
+  "_originalSource": "one-elements",
+  "_direct": true
+}
